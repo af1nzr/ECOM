@@ -19,7 +19,7 @@ A fictional retail company needed a centralized solution to track its sales perf
 ## **Dashboard Highlights**
 
 <div align="center">
-  <img src="Assets/Dashboard-demo.gif" alt="Dashboard Demo" width="700"/>
+  <img src="Assets/Dashboard-Demo.gif" alt="Dashboard Demo" width="700"/>
 </div>
 
 
