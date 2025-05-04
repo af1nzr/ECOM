@@ -18,6 +18,11 @@ A fictional retail company needed a centralized solution to track its sales perf
 
 ## **Dashboard Highlights**
 
+<div align="center">
+  <img src="Assets/Dashboard-demo.gif" alt="Dashboard Demo" width="700"/>
+</div>
+
+
 ### **KPI Insights (Top Row)**
 
 - YTD Sales: $6M with slight negative variance (−0.55%)
