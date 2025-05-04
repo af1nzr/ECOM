@@ -1,5 +1,5 @@
 
-# E-commerce Sales Dashboard – Executive Summary & Deep Analysis
+# Ecom Sales Dashboard – Executive Summary & Deep Analysis
 
 ## 1. Overall Business Performance
 
