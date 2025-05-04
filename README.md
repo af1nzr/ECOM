@@ -72,3 +72,13 @@ This dashboard is ideal for:
 - Freelance clients needing business dashboards
 - Interview panels testing dashboard storytelling skills
 - Portfolio viewers assessing data visualization capabilities
+
+
+
+
+
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
