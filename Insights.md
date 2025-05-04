@@ -1,5 +1,5 @@
 
-# 🧠 E-commerce Sales Dashboard – Executive Summary & Deep Analysis
+# E-commerce Sales Dashboard – Executive Summary & Deep Analysis
 
 ## 1. Overall Business Performance
 
@@ -18,21 +18,21 @@
 | **Furniture**       | $0.4M     | 4K      | $39.83K     | +3.23%    |
 | **Technology**      | $0.4M     | 4K      | $48.65K     | +1.20%    |
 
-### 🔍 Insights:
+### Insights:
 - **Office Supplies** dominates sales but is declining (-4.67% YoY).
 - **Furniture** and **Technology** are **growing**, but still contribute less to overall revenue.
 - Focus on promoting high-margin items in growing categories like Furniture.
 
 ## 3. Top Performing Products
 
-### 🏆 Highest Revenue Products:
+### Highest Revenue Products:
 - Easy-staple paper ($13.9K)
 - Global Deluxe Chair ($11.4K)
 - Berrdell Rectangle Table ($9.4K)
 
 These products are high-volume and consistent sellers. Consider bundling, upselling, or increasing visibility for them.
 
-### 💰 Top 5 by Profit:
+### Top 5 by Profit:
 - Xerox 1973 ($229.1)
 - Eldon Expressions Punch ($200.0)
 - Wilson Jones Data Warehousing Binder ($161.1)
@@ -41,7 +41,7 @@ Although their unit revenue may be low, their **profit per item is high**, makin
 
 ## 4. Regional Performance
 
-### 🗺️ YTD Sales by Region:
+###  YTD Sales by Region:
 | Region | Sales | % Share |
 |--------|-------|---------|
 | **East**    | $653.2K | 31.73% |
@@ -49,21 +49,21 @@ Although their unit revenue may be low, their **profit per item is high**, makin
 | **South**   | $479.2K | 23.2%  |
 | **Central** | $322.1K | 15.65% |
 
-### 📍 Insights:
+### Insights:
 - **East and West regions contribute 61%+** of the total sales.
 - **Central region** has the lowest performance — investigate marketing and logistics challenges there.
 - The **map visual** confirms dense order activity in eastern urban zones and coastal states.
 
 ## 5. Shipping Insights
 
-### 🚚 YTD Sales by Shipping Mode:
+### YTD Sales by Shipping Mode:
 | Shipping Mode | Sales | % Share |
 |---------------|-------|---------|
 | Standard Class | $1.3M | 60.9%   |
 | Second Class   | $0.4M | 18.59%  |
 | First Class    | $0.3M | 15.57%  |
 
-### 🚛 Analysis:
+### Analysis:
 - Majority of sales (60.9%) are via **Standard Class**, likely due to lower shipping costs.
 - Consider **incentivizing First Class** for high-margin products to improve customer experience.
 
@@ -76,7 +76,7 @@ This analysis is currently filtered to only the **Home Office** segment, which m
 - Segment shows **volume drop (-10.54%)** but **profit growth** — shows potential if margins can be managed better.
 - Need to explore **Corporate and Consumer** segments to compare full potential.
 
-## 📌 Final Strategic Insights
+## Final Strategic Insights
 
 1. **Improve Profit Margins**: Despite profit growth, margin collapse (-88.65%) is alarming — reduce discounts, optimize logistics, or renegotiate supplier costs.
 2. **Expand High-Performing Regions**: Double down on East & West with tailored campaigns.
